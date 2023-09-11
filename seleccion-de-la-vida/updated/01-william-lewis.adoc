@@ -1,5 +1,6 @@
 == Selección de la vida de William Lewis
 
+[.salutation]
 Mi querido Amigo,
 
 Cuando considero la profundidad y la fuerza del amor al yo en el alma caída del hombre,
@@ -217,9 +218,14 @@ y al rechazar toda opinión y doctrina que no estuvieran edificadas sobre este f
 Entonces, las Sagradas Escrituras fueron leídas con apertura de corazón,
 y pronto fui convencido de las siguientes verdades:
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ Que la obra de la religión es totalmente interna,
 y obrada por la operación del Espíritu Santo de Dios.
 
+[.numbered]
 2+++.+++ Que la verdadera adoración es también interna,
 al consistir principalmente en una humilde postración
 del espíritu ante el omnipresente Creador,
@@ -230,6 +236,7 @@ footnote:[Jeremías 23:23]
 "`en quien vivimos, y nos movemos, y somos.`"^
 footnote:[Hechos 17:28]
 
+[.numbered]
 3+++.+++ Que el Todopoderoso Dios, en las riquezas de Su misericordia,
 ha sembrado en el corazón de todo hombre un don o medida de Su Palabra viva;
 una semilla real de Su naturaleza divina y celestial.^
@@ -237,6 +244,7 @@ footnote:[La cual puede ser resistida y rechazado,
 o "`recibida con mansedumbre`" para la salvación del alma.
 Ver Santiago 1:21; Mateo 13:3-9; Juan 1:9; Romanos 1:19]
 
+[.numbered]
 4+++.+++ Que el levantamiento de esta "`semilla incorruptible`" hasta
 convertirse en un poder dominante de vida en el alma del hombre,
 es tan necesario para la verdadera percepción de las cosas espirituales,
@@ -250,12 +258,15 @@ si en alguna manera, palpando, puedan hallarle,
 aunque ciertamente no está lejos de cada uno de nosotros.`"^
 footnote:[Hechos 17:27]
 
+[.numbered]
 5+++.+++ Que en consecuencia, la fe para la que todas las cosas son posibles,
 es algo de una naturaleza mucho más profunda que
 la mera aceptación del juicio de verdades o doctrinas,
 o un acuerdo con lo que es llamado por muchos,
 el "`Plan Evangélico de Salvación,`" o incluso con todo
 lo que contiene el credo de la teología sistemática.
+
+====
 
 Los escritos espirituales antes aludidos,
 fueron indudablemente usados por el Señor para traer mayor claridad a estas nuevas convicciones,
@@ -732,6 +743,7 @@ A partir de ese momento (el año 1795) asistí a sus reuniones regularmente,
 y unos tres años después, al solicitar ser admitido como miembro de las Sociedad,
 fui recibido como tal en la reunión mensual de mi ciudad natal.
 
+[.signed-section-signature]
 William Lewis
 
 [.asterism]
@@ -757,8 +769,10 @@ a partir de las cuales se extraen los siguientes dos ejemplos.
 [.asterism]
 '''
 
+[.letter-heading]
 Para un Joven Religiosamente Dispuesto
 
+[.salutation]
 Querido Amigo,
 
 El interés despertado en mi mente durante las conversaciones
@@ -948,15 +962,19 @@ que tiene poder para edificarte.
 Que seas favorecido para crecer en la fortaleza del Señor y en el poder de Su fuerza,
 para que puedas resistir en el día malo, y habiendo acabo todo, estés firme.
 
+[.signed-section-closing]
 Me despido afectuosamente,
 
+[.signed-section-signature]
 William Lewis
 
 [.asterism]
 '''
 
+[.letter-heading]
 A un Joven Miembro de la Iglesia de Inglaterra
 
+[.salutation]
 Amado amigo,
 
 En un temprano periodo de tu vida,
@@ -1255,4 +1273,5 @@ Deseo que Él nunca te deje ni te desampare, hasta que haya hecho en ti y por ti
 todo lo que te hablaron los primeros suaves suspiros de Su Espíritu,
 y que tú entonces deseaste tan fervientemente.
 
+[.signed-section-signature]
 William Lewis
